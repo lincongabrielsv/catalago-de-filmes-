@@ -10,3 +10,7 @@ header{
    margin-left: 80;
    margin-right: 80;
 }
+
+section{
+ display: flex;
+}
