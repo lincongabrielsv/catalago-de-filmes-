@@ -1,5 +1,9 @@
 body{
+    background: rgb(3, 2, 71);
+    color:rgb(217, 217, 248);
+}
 
-    background: purple;
-    color:aquamarine;
+header{
+   text-align: center;
+   font-size: 50px;
 }
