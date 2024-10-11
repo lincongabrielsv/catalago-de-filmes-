@@ -7,4 +7,6 @@ header{
    text-align: center;
    font-size: 50px;
    border-bottom: solid 2px rgb(217, 217, 248)
+   margin-left: 80;
+   margin-right: 80;
 }
