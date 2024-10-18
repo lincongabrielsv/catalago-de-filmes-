@@ -1,6 +1,7 @@
 body{
     background: rgb(3, 2, 71);
     color:rgb(217, 217, 248);
+    margin: 0;
 }
 
 header{
@@ -14,4 +15,8 @@ header{
 section{
  display: flex;
  background-color: rgb(217, 217, 248));
+ padding-bottom: 80px;
+ padding-top: 70px;
+ margin-top: 20px;
+ jusrify-content: center;
 }
