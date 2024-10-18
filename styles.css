@@ -13,4 +13,5 @@ header{
 
 section{
  display: flex;
+ background-color: rgb(109, 102, 199);
 }
