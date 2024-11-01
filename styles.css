@@ -36,7 +36,8 @@ text-align: center;
 
 img{
 opacity:0.5 ;
-
+width: 200px;
+height: 300px;
 }
 
 img:hover{
