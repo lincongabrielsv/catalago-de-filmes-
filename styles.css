@@ -12,7 +12,7 @@ header{
    margin-right: 80;
 }
 
-section{
+.inicio{
  display: flex;
  background-color: rgb(217, 217, 248));
  padding-bottom: 80px;
@@ -23,4 +23,22 @@ section{
 }
 .chamada-texto{
     margin-right:4% ;
+}
+.filmes{display:flex ;
+overflow-x: auto;
+gap: 20px;
+}
+
+h2{ 
+text-align: center;
+
+}
+
+img{
+opacity:0.5 ;
+
+}
+
+img:hover{
+    opacity:1.0 ;
 }
