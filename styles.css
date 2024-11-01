@@ -41,4 +41,5 @@ opacity:0.5 ;
 
 img:hover{
     opacity:1.0 ;
+    border: 2px solid rgb(217, 217, 248);
 }
